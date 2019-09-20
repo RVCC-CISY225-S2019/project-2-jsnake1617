@@ -15,7 +15,7 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: #F3F3F3;
+  background-color: #ffffff;
   height: 3.5em;
   padding: 1em;
 }
@@ -60,7 +60,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #294860;
+  background-color: #EE7674;
   color: white;
 }
 
@@ -76,7 +76,7 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #294860;
+  color: #1b32ff;
   font-size: 1.1em;
   font-style: italic;
 }
@@ -117,3 +117,12 @@ img.my-picture {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
 }
+
+.footer {
+  background-color: #F63E02;
+  height: 3.5em;
+  padding: 1em;
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 0;
