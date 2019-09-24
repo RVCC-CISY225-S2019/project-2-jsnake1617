@@ -1,6 +1,10 @@
-## Project 1 About Me Starter Code 
+## Project 2 About Me 
 
 ### My Project
+* Changed the font
+* Made a header and footer
+* changed the background color
+* updated readme.md
 
 ### Resources
 

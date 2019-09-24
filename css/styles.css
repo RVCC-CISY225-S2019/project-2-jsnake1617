@@ -76,7 +76,7 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #1b32ff;
+  color: #EE7674;
   font-size: 1.1em;
   font-style: italic;
 }
@@ -120,8 +120,7 @@ img.my-picture {
 
 .footer {
   background-color: #F63E02;
-  height: 3.5em;
-  padding: 1em;
+  padding: 4em;
   font-size: 1.6rem;
   font-weight: 600;
   text-align: center;
