@@ -1,5 +1,5 @@
 body {
-  font-family: 'Fira Sans';
+  font-family: 'Fira Sans', sans-serif;
   margin: 0;
 
 }
@@ -15,7 +15,7 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: #ffffff;
+  background-color: #F3F3F3;
   height: 3.5em;
   padding: 1em;
 }
@@ -119,10 +119,10 @@ img.my-picture {
 }
 
 .footer {
-  background-color: #F63E02;
-  padding: 4em;
-  font-size: 1.6rem;
-  font-weight: 600;
-  text-align: center;
-  margin-bottom: 0; 
+    padding: 4em;
+    max-width: 100%;
+    background-color: #EE7674;
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
 }
